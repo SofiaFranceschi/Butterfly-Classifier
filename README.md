@@ -38,7 +38,7 @@ The dataset used for this project is sourced from Kaggle and contains images of 
 
 Download the dataset and extract the contents. From the `.zip` file, extract only the `train` and `test` folders, and the file `butterflies and moths.csv`. Place these items at the same level as the `classifier_main.ipynb` file. The directory structure should be as follows:
 ```
-📁 ML_progetto
+📁 Butterfly-Classifier
 └── butterflies and moths.csv    # CSV file with additional data
 └── classifier_main.ipynb        # Main notebook for running the project
 └── README.md                    # Project README file
@@ -64,7 +64,7 @@ This notebook contains all the necessary code to train the model, evaluate its p
 
 The repository is structured as follows:
 ```
-📁 ML_progetto
+📁 Butterfly-Classifier
 └── butterflies and moths.csv    # CSV file with additional data
 └── classifier_main.ipynb        # Main notebook for running the project
 └── README.md                    # Project README file
